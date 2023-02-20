@@ -1,4 +1,4 @@
 /env/
-/convert/
-/strage/
-/origin/
+/convert/*
+/strage/*
+/origin/*
